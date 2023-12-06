@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on SoftwareSeni as a Devops Engineer
+- 🌱 I’m currently learning Data Engineer / Data Scientist
+- 👯 I’m looking to collaborate on Web Development
+- 📫 How to reach me: linkedin : @hudaridwan instagram @mhudaridwan
+- ⚡ Fun fact: Bruce Wayne is a Batman 😄 
 <!--
 **elqahtani/elqahtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
